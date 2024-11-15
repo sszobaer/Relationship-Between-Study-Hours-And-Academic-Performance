@@ -100,7 +100,7 @@ Future studies should explore larger, more diverse samples and long-term trends 
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/Study-Hours-vs-Academic-Performance.git  
+   git clone https://github.com/sszobaer/Thesis-About-Relationship-Between-Study-Hours-And-Academic-Performance.git
    ```  
 2. Explore the folders for:  
    - Research methodology.  
