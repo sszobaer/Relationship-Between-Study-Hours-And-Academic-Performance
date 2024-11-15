@@ -114,8 +114,8 @@ Future studies should explore larger, more diverse samples and long-term trends 
 ## Acknowledgements
 
 Special thanks to:
-- **Microsoft** for their development tools and platform.
-- **Stack Overflow** and **GitHub** communities for their valuable support and resources.
+- **Google** for their development tools and platform.
+- **Google Schoolar** and **Research Gate** communities for their valuable support and resources.
 - And Also <br>
 🎓 **Iftekhar Mahmud**  <br>
 🎓 Lecturer, Faculty, Department of English, AIUB <br>
