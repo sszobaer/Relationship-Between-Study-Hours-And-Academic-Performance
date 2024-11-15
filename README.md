@@ -40,7 +40,7 @@ The study gathered data from 52 respondents using a 10-question survey. Key topi
 4. Management of distractions and stress.  
 5. Seeking feedback to improve study habits.  
 
-The complete survey is available [here](./3_Methodology/Survey_Questions.md).  
+The complete survey is available [here](https://github.com/sszobaer/Thesis-About-Relationship-Between-Study-Hours-And-Academic-Performance/blob/main/Methodology/survey_questions.md).  
 
 ---
 
