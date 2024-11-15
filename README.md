@@ -110,3 +110,23 @@ Future studies should explore larger, more diverse samples and long-term trends 
 3. Run the Python scripts to replicate the statistical analysis.  
 
 ---
+
+## Acknowledgements
+
+Special thanks to:
+- **Microsoft** for their development tools and platform.
+- **Stack Overflow** and **GitHub** communities for their valuable support and resources.
+- And Also <br>
+🎓 **Iftekhar Mahmud**  <br>
+🎓 Lecturer, Faculty, Department of English, AIUB <br>
+Your guidance has been instrumental in the development of this project.
+
+
+## Contact
+
+For more information, reach out to:
+
+- **Email:** [ahmedsszobaer@gmail.com](mailto:ahmedsszobaer@gmail.com)
+- **GitHub:** [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
+- **Linkedin:** [S. S. Zobaer Ahmed](https://www.linkedin.com/in/s-s-zobaer-ahmed-209bab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **YouTube Channel:** [Code Craft Zobaer](https://www.youtube.com/@CodeCraftZobaer)
