@@ -52,7 +52,7 @@ Key findings from the statistical analysis:
 - **Study Techniques**: Quality of study methods mattered more than sheer hours spent.  
 - **Stress**: High study hours often correlated with increased stress, suggesting the need for balance.  
 
-For detailed findings and visualizations, visit the [Findings and Discussion](./5_Findings_and_Discussion/Findings.md) section.  
+For detailed findings and visualizations, visit the [Findings and Discussion](https://github.com/sszobaer/Thesis-About-Relationship-Between-Study-Hours-And-Academic-Performance/blob/main/Findings%20and%20Discussion/Findings.md) section.  
 
 ---
 
