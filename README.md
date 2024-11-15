@@ -67,7 +67,7 @@ The Python script calculates:
 - **Variance**: Spread of the data.  
 - **Standard Deviation**: Variability in responses.  
 
-Access the code [here](./4_Data_and_Code/statistics_analysis.py).  
+Access the code [here](Data & Code/statistics_analysis.py).  
 
 ---
 
