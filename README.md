@@ -67,7 +67,7 @@ The Python script calculates:
 - **Variance**: Spread of the data.  
 - **Standard Deviation**: Variability in responses.  
 
-Access the code [here](Data & Code/statistics_analysis.py).  
+Access the code [here](https://github.com/sszobaer/Thesis-About-Relationship-Between-Study-Hours-And-Academic-Performance/blob/main/Data%20%26%20Code/statistics_analysis.py).  
 
 ---
 
