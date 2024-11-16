@@ -10,3 +10,7 @@ The findings graph represents the relationship between various parameters studie
 - **Data Visualization:** Graphical representation of key research findings.
 - **Comparative Analysis:** Easy-to-understand comparison between different groups and variables.
 - **Dynamic Insights:** Visual elements highlight significant trends and relationships.
+
+# 📈 Visualizations Included
+
+This section provides a detailed description of the visualizations generated as part of our research project. These graphs and charts highlight the key insights and trends observed during the study.
